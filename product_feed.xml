@@ -1,34 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
-    <title>Your Store Name</title>
-    <link>https://www.yoursite.com</link>
+    <title>AirFeel Filters</title>
+    <link>https://airfeelfilters.com</link>
     <description>Product feed for Google Shopping</description>
 
     <item>
-      <g:id>123</g:id>
-      <g:title>AirFeel RV AC Filter 6"x16"</g:title>
-      <g:description>Triple-stage air filter for Coleman Mach RV AC units</g:description>
-      <g:link>https://www.yoursite.com/products/rv-filter-6x16</g:link>
-      <g:image_link>https://www.yoursite.com/images/filter-6x16.jpg</g:image_link>
+      <g:id>AF-714-1</g:id>
+      <g:title>RV AC Filter 7.5"x14" – Replacement for Dometic Duo Therm, MERV 6, 1 Pack by AirFeel</g:title>
+      <g:description>This premium RV AC filter 7.5&quot;x14&quot; is designed as a direct replacement for Dometic Duo Therm ceiling units (3313107.103 / 3105012.003). The triple-layer construction captures dust, pollen, lint, and pet hair to help maintain clean air inside your RV. Compatible with Dometic Duo Therm, it fits easily without cutting and protects your AC system for longer, healthier use.</g:description>
+      <g:link>https://airfeelfilters.com/products/rv-air-conditioner-filter-6-x-14</g:link>
+      <g:image_link>https://airfeelfilters.com/cdn/shop/files/1-set1.png?v=1748723738&amp;width=1100</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>19.99 USD</g:price>
+      <g:price>22.91 USD</g:price>
       <g:condition>new</g:condition>
       <g:brand>AirFeel</g:brand>
-      <g:gtin>123456789012</g:gtin>
+      <g:gtin>860013870508</g:gtin>
     </item>
 
     <item>
-      <g:id>124</g:id>
-      <g:title>RV Filter 7.5"x14"</g:title>
-      <g:description>MERV 6 replacement for Dometic Duo Therm</g:description>
-      <g:link>https://www.yoursite.com/products/rv-filter-7x14</g:link>
-      <g:image_link>https://www.yoursite.com/images/filter-7x14.jpg</g:image_link>
+      <g:id>AF-714-2</g:id>
+      <g:title>RV AC Filter 7.5"x14" – Replacement for Dometic Duo Therm, MERV 6, 2 Pack by AirFeel</g:title>
+      <g:description>This premium RV AC filter 7.5&quot;x14&quot; is designed as a direct replacement for Dometic Duo Therm ceiling units (3313107.103 / 3105012.003). The triple-layer construction captures dust, pollen, lint, and pet hair to help maintain clean air inside your RV. Compatible with Dometic Duo Therm, it fits easily without cutting and protects your AC system for longer, healthier use.</g:description>
+      <g:link>https://airfeelfilters.com/products/premium-air-conditioner-filter-replacement-for-rv-14-2-pack</g:link>
+      <g:image_link>https://airfeelfilters.com/cdn/shop/files/1-set2.png?v=1748724082&amp;width=1100</g:image_link>
       <g:availability>in stock</g:availability>
-      <g:price>22.50 USD</g:price>
+      <g:price>29.90 USD</g:price>
       <g:condition>new</g:condition>
       <g:brand>AirFeel</g:brand>
-      <g:gtin>123456789013</g:gtin>
+      <g:gtin>860013870515</g:gtin>
+    </item>
+
+    <item>
+      <g:id>AF-714-3</g:id>
+      <g:title>RV AC Filter 7.5"x14" – Replacement for Dometic Duo Therm, MERV 6, 3 Pack by AirFeel</g:title>
+      <g:description>This premium RV AC filter 7.5&quot;x14&quot; is designed as a direct replacement for Dometic Duo Therm ceiling units (3313107.103 / 3105012.003). The triple-layer construction captures dust, pollen, lint, and pet hair to help maintain clean air inside your RV. Compatible with Dometic Duo Therm, it fits easily without cutting and protects your AC system for longer, healthier use.</g:description>
+      <g:link>https://airfeelfilters.com/products/premium-air-conditioner-filter-replacement-for-rv-14-3-pack</g:link>
+      <g:image_link>https://airfeelfilters.com/cdn/shop/files/1-set3.png?v=1748724255&amp;width=990</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>34.94 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AirFeel</g:brand>
+      <g:gtin>860013870522</g:gtin>
+    </item>
+
+    <item>
+      <g:id>AF-616-2</g:id>
+      <g:title>RV AC Filter 6"x16" – Triple-Stage Replacement for Coleman Mach, 2-Pack by AirFeel</g:title>
+      <g:description>This premium RV AC filter 6&quot;x16&quot; is a triple-layer replacement for Coleman Mach ceiling units (8430A633 / 8430A6332). Designed for easy fit and reliable filtration, it captures dust, pollen, lint, and pet hair, helping maintain clean, healthy air in your RV. Compatible with Coleman Mach 6&quot;x16&quot; AC systems.</g:description>
+      <g:link>https://airfeelfilters.com/products/rv-air-conditioner-filter-7-5-x-14</g:link>
+      <g:image_link>https://airfeelfilters.com/cdn/shop/files/1-set2-Tr.png?v=1748724399&amp;width=990</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>24.90 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AirFeel</g:brand>
+      <g:gtin>860013870539</g:gtin>
+    </item>
+
+    <item>
+      <g:id>AF-616-4</g:id>
+      <g:title>RV AC Filter 6"x16" – Triple-Stage Replacement for Coleman Mach, 4-Pack by AirFeel</g:title>
+      <g:description>This premium RV AC filter 6&quot;x16&quot; is a triple-layer replacement for Coleman Mach ceiling units (8430A633 / 8430A6332). Designed for easy fit and reliable filtration, it captures dust, pollen, lint, and pet hair, helping maintain clean, healthy air in your RV. Compatible with Coleman Mach 6&quot;x16&quot; AC systems.</g:description>
+      <g:link>https://airfeelfilters.com/products/rv-air-conditioner-filter-replacement-rv-16-4-pack</g:link>
+      <g:image_link>https://airfeelfilters.com/cdn/shop/files/1-Set4-Tr.png?v=1748724578&amp;width=990</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>29.90 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AirFeel</g:brand>
+      <g:gtin>860013870546</g:gtin>
     </item>
 
   </channel>
