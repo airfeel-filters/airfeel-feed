@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Your Store Name</title>
+    <link>https://www.yoursite.com</link>
+    <description>Product feed for Google Shopping</description>
+
+    <item>
+      <g:id>123</g:id>
+      <g:title>AirFeel RV AC Filter 6"x16"</g:title>
+      <g:description>Triple-stage air filter for Coleman Mach RV AC units</g:description>
+      <g:link>https://www.yoursite.com/products/rv-filter-6x16</g:link>
+      <g:image_link>https://www.yoursite.com/images/filter-6x16.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AirFeel</g:brand>
+      <g:gtin>123456789012</g:gtin>
+    </item>
+
+    <item>
+      <g:id>124</g:id>
+      <g:title>RV Filter 7.5"x14"</g:title>
+      <g:description>MERV 6 replacement for Dometic Duo Therm</g:description>
+      <g:link>https://www.yoursite.com/products/rv-filter-7x14</g:link>
+      <g:image_link>https://www.yoursite.com/images/filter-7x14.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>22.50 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AirFeel</g:brand>
+      <g:gtin>123456789013</g:gtin>
+    </item>
+
+  </channel>
+</rss>
